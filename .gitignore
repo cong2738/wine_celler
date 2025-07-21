@@ -1,0 +1,32 @@
+## PumpK's gitignore for HandBand workspace ##
+
+#Exclude VSC Setting File Trees
+**/.vscode/**
+
+#Exclude CubeIDE Trees
+**/.metadata/**
+**/.settings/**
+**/Debug/**
+**/Drivers/**
+**/Middlewares/**
+#Exclude CubeIDE Files
+.cproject
+
+#Exclude vivado Trees
+**/**.runs/**
+**/**.cache/**
+**/**.sim/**
+**/**.hw/**
+**/.Xil/**
+#Exclude vivado File
+**.debug
+**.jou
+**.log
+**.str
+**backup**
+**.bkp
+
+#Exept gitignore
+!.gitignore
+#Exept vivado xpr
+!**.xpr
