@@ -1,3 +1,0 @@
-../Core/driver/hypersonic/hypersonic.c:11:13:delay_us	2
-../Core/driver/hypersonic/hypersonic.c:16:5:HCSR04_init	1
-../Core/driver/hypersonic/hypersonic.c:50:5:HCSR04_read	8
