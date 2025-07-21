@@ -1,0 +1,7 @@
+../Core/ap/src/sound.c:13:6:Sound_BeepDelay	16	static
+../Core/ap/src/sound.c:20:6:Sound_BeepTiming	24	static
+../Core/ap/src/sound.c:26:6:Sound_Init	8	static
+../Core/ap/src/sound.c:31:6:Sound_Power_On	8	static
+../Core/ap/src/sound.c:38:6:Sound_Power_Off	4	static
+../Core/ap/src/sound.c:42:6:Sound_ChangeMode	4	static
+../Core/ap/src/sound.c:46:6:Sound_Alarm	4	static

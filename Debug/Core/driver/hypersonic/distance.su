@@ -1,0 +1,7 @@
+../Core/driver/hypersonic/distance.c:23:13:delay_us	24	static
+../Core/driver/hypersonic/distance.c:29:13:Debug_SendMessage	16	static
+../Core/driver/hypersonic/distance.c:33:6:Distance_Init	128	static
+../Core/driver/hypersonic/distance.c:63:13:Distance_SendTrigger	8	static
+../Core/driver/hypersonic/distance.c:80:5:Distance_Read	120	static
+../Core/driver/hypersonic/distance.c:113:10:Distance_GetValue	4	static
+../Core/driver/hypersonic/distance.c:119:6:Distance_TimerCallback	16	static

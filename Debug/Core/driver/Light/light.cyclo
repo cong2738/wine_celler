@@ -1,0 +1,2 @@
+../Core/driver/Light/light.c:9:6:Light_init	1
+../Core/driver/Light/light.c:13:6:Light_ctrl	2

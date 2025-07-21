@@ -1,0 +1,10 @@
+../Core/ap/src/Controller.c:38:6:ctrl_LCD_DataSel	4	static
+../Core/ap/src/Controller.c:52:6:ctrl_FND_DataMode	4	static
+../Core/ap/src/Controller.c:68:6:Controller_setEvent	16	static
+../Core/ap/src/Controller.c:73:6:Controller_Excute	24	static
+../Core/ap/src/Controller.c:86:7:get_LcdData0	4	static
+../Core/ap/src/Controller.c:91:7:get_LcdData1	4	static
+../Core/ap/src/Controller.c:96:10:get_FndData	4	static
+../Core/ap/src/Controller.c:101:5:get_motorState	4	static
+../Core/ap/src/Controller.c:105:5:get_lightState	4	static
+../Core/ap/src/Controller.c:109:6:set_menu	16	static

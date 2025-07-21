@@ -1,0 +1,7 @@
+../Core/driver/FND/FND.c:48:6:FND_WriteDp	16	static
+../Core/driver/FND/FND.c:56:6:FND_WriteData	16	static
+../Core/driver/FND/FND.c:61:10:FND_ReadData	4	static
+../Core/driver/FND/FND.c:67:6:FND_DispDataCallBack	8	static
+../Core/driver/FND/FND.c:142:6:FND_DispOn	16	static
+../Core/driver/FND/FND.c:148:6:FND_DispOffALL	16	static
+../Core/driver/FND/FND.c:155:6:FND_DispDigit	32	static
