@@ -1,2 +1,0 @@
-../Core/driver/Button/Button.c:12:6:Button_Init	24	static
-../Core/driver/Button/Button.c:19:16:Button_GetState	24	static
