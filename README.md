@@ -11,7 +11,7 @@
 
 ## Introduce
 
-- RTOS_smart_wine_celler:</br>  RTOS를 적용한 스마트 와인셀러.
+- RTOS_smart_wine_celler: RTOS를 적용한 스마트 와인셀러.
 - RTOS를 이용한 멀티스레딩을 통해 센서, 버튼 등 다양한 입력을 실시간적으로 동시에 수행하며 처리하는 센서 인터페이스 펌웨어를 설계한다.
 - IPO Model과 Producer/Contumer DesignPattern을 적용하여 확장성과 협업에 용이하게 설계한다.
 
