@@ -1,13 +1,13 @@
 # RTOS_smart_wine_celler
 
-> **2025년 HARMAN Semicon Academy 1기** <br/> **개발기간: 2025.06.03 ~ 06.12**
+> **2025년 HARMAN Semicon Academy 1기** <br/> **개발기간: 2025.06.20 ~ 06.24**
 
 ## 개발팀 소개
 
-|박호윤                                          |박지수                                            |임윤재                                         |함영은                                      |                                                                               
-| :--------------------------------------------: | :--------------------------------------------:     | :---------------------------------------:       | :---------------------------------------: |
-|   [@cong2738](https://github.com/cong2738)     |    [@Friday930](https://github.com/Friday930)      | [@immune](https://github.com/immune1029)        | [@heyhoo46](https://github.com/heyhoo46)  |
-|SystenArchitecture Design And GAME LOGIC Circuit Develop           |ISP Develop and SIM,VGA Print module develop And SIM|camera communication develop and Game font design|GAME UI design, Graphic Circuit develop, GameLogic SIM|
+|박호윤                                                              |박지수                                            |                                                                     
+| :--------------------------------------------:                     | :--------------------------------------------:  | 
+|   [@cong2738](https://github.com/cong2738)                         |    [@Friday930](https://github.com/Friday930)  |
+|SystenArchitecture Design, ControllerThread, PresenterThread design|HWDriver And ListenerThread design              |
 
 ## Introduce
 
