@@ -64,6 +64,6 @@ _ _ _ _ _ _
 
 ## video  
 click!--></br>
-<img width="426" height="240" alt="image" src="https://github.com/user-attachments/assets/301a0f72-d0db-416d-9c61-74eb544f039e" /></br>
-<img width="426" height="240" alt="image" src="https://github.com/user-attachments/assets/2c0d86da-2f75-44ac-9335-3ed33a637c69" /></br>
-<img width="426" height="240" alt="image" src="https://github.com/user-attachments/assets/22107dc3-5c11-4185-820a-989a9f89e10d" /></br>
+<img width="426" height="240" alt="image" src="img/거리.gif" /></br>
+<img width="426" height="240" alt="image" src="img/입력.gif" /></br>
+<img width="426" height="240" alt="image" src="img/온도제어.gif" /></br>
