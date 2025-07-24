@@ -32,6 +32,10 @@
 <img width="321" height="241" alt="와인냉장고 설계-ob_dia drawio" src="https://github.com/user-attachments/assets/e9babd54-f41f-4eac-a8b3-618bcc171223" />
 </br>
 
+- 버튼 입력에 따라 LCD에 재고를 선택하여 출력
+- 거리센서를 이용 사람이 앞에 잇으면 LED를 켜서 내용물을 보여줌
+- 온습도센서를 활용 공조장치 제어
+
 _ _ _ _ _ _
 
 ### Project Overview
