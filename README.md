@@ -7,7 +7,7 @@
 |박호윤                                                              |박지수                                            |                                                                     
 | :--------------------------------------------:                     | :--------------------------------------------:  | 
 |   [@cong2738](https://github.com/cong2738)                         |    [@Friday930](https://github.com/Friday930)  |
-|SystenArchitecture Design, ControllerThread, PresenterThread design|HWDriver And ListenerThread design              |
+|SystemArchitecture Design, ControllerThread, PresenterThread design|HWDriver And ListenerThread design              |
 
 ## Introduce
 
